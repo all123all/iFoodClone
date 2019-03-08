@@ -1,3 +1,10 @@
+//  #12090C
+//  #1C0E12
+//  #DDD3BA
+//  #2B171C
+//  #070405
+//  #8C8272
+
 import React from 'react';
 import { StyleSheet, Text, View, ScrollView, TextInput, Image, } from 'react-native';
 
@@ -21,7 +28,7 @@ export default class App extends React.Component {
             <TextInput
               placeholderTextColor="#070304"
               style={styles.inputData}
-              placeholder="User ID:"
+              placeholder="Username:"
             />
             <TextInput
               placeholderTextColor="#070304"
